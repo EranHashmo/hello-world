@@ -1,2 +1,2 @@
 # hello-world
-My first project in open source
+My first project in open source.
